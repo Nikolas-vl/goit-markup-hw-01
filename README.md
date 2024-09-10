@@ -1,5 +1,1 @@
-# my-first-project
-
-hello
-git
-git
+goit-markup-hw-01
